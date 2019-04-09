@@ -15,3 +15,6 @@ def joke():
 
 def adding(x,y):
     return x+y
+
+def shout():
+    print('Thats iziiii!!!!!')

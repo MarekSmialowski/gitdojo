@@ -1,5 +1,6 @@
 def introduce():
     print("Hello, I'm The best!")
+    
 
 
 def smile_function():
@@ -12,6 +13,5 @@ def smile_function():
 def joke():
     print("hello guys")
 
-
-def adding(x, y):
+def adding(x,y):
     return x+y

@@ -8,3 +8,10 @@ def smile_function():
     if happy:
         return smile
 
+
+def joke():
+    print("hello guys")
+
+
+def adding(x, y):
+    return x+y
